@@ -8,7 +8,7 @@ class SumOfNaturalNumbers {
         System.out.println("The sum of the first " + n + " natural numbers is: " + sum);
     }
 
-    public static int sumOfNaturalNumbers(int n) {
+    public static int Recursion (int n) {
         if (n == 1) {
             return 1; 
         }
